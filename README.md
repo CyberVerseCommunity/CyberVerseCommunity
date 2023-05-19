@@ -1,5 +1,7 @@
 <div id="header" align="center">
   <img src="https://i.imgur.com/xTI7U2T.png" width="100"/>
+  
+[![](https://visitcount.itsvg.in/api?id=CyberVerseCommunity&icon=2&color=0)](https://visitcount.itsvg.in)
 </div>
 
 # 💫 About Community:
@@ -22,6 +24,5 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=CyberVerseCommunity&icon=2&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
